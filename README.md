@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="100%"/>
 
 <!--
 **oaflindberg/oaflindberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
